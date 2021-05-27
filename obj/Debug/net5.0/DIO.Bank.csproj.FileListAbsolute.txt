@@ -1,0 +1,16 @@
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/bin/Debug/net5.0/DIO.Bank
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/bin/Debug/net5.0/DIO.Bank.deps.json
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/bin/Debug/net5.0/DIO.Bank.runtimeconfig.json
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/bin/Debug/net5.0/DIO.Bank.runtimeconfig.dev.json
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/bin/Debug/net5.0/DIO.Bank.dll
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/bin/Debug/net5.0/ref/DIO.Bank.dll
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/bin/Debug/net5.0/DIO.Bank.pdb
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/obj/Debug/net5.0/DIO.Bank.csprojAssemblyReference.cache
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/obj/Debug/net5.0/DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/obj/Debug/net5.0/DIO.Bank.AssemblyInfoInputs.cache
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/obj/Debug/net5.0/DIO.Bank.AssemblyInfo.cs
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/obj/Debug/net5.0/DIO.Bank.csproj.CoreCompileInputs.cache
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/obj/Debug/net5.0/DIO.Bank.dll
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/obj/Debug/net5.0/ref/DIO.Bank.dll
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/obj/Debug/net5.0/DIO.Bank.pdb
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.Bank/obj/Debug/net5.0/DIO.Bank.genruntimeconfig.cache
